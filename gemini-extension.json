@@ -1,0 +1,10 @@
+{
+  "name": "gen",
+  "version": "0.1.0",
+  "description": "The auto-content engine for ads, cartoons, AI UGC, and microdramas, with a free video editor.",
+  "mcpServers": {
+    "gen": {
+      "httpUrl": "https://mcp.gen.pro"
+    }
+  }
+}

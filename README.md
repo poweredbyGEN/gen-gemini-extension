@@ -1,5 +1,7 @@
 # GEN for Gemini CLI
 
+![GEN](assets/gen-logo.png)
+
 GEN is the auto-content engine for ads, cartoons, AI UGC, and microdramas, with a free video editor. It researches what’s working, makes the video, and posts it over MCP.
 
 This extension connects Gemini CLI to GEN’s hosted MCP server at https://mcp.gen.pro.

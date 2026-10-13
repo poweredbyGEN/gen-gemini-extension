@@ -1,13 +1,14 @@
 ---
 name: gen
-description: Research trends, create and edit videos, images, songs, voices and avatars, and publish social content with GEN over MCP. Use for ads, AI UGC, cartoons, microdramas, Vidsheets, content watchlists, and recurring content jobs. Supports OAuth, personal access tokens, and autonomous agent account registration.
+description: GEN is the creative AI video engineer. It researches trends, creates and edits videos, images, songs, voices and avatars, and publishes social content over MCP. Use for ads, AI UGC, cartoons, microdramas, Vidsheets, content watchlists, and recurring content jobs. Supports OAuth, personal access tokens, and autonomous agent account registration.
 compatibility: Requires a remote Streamable HTTP MCP client or HTTPS access to GEN. LLM drafts require credits but no subscription; media generation has separate access requirements.
 ---
 
-# GEN, the auto-content engine
+# GEN, the creative AI video engineer
 
-GEN researches what’s working, makes the video, and posts it. Ads, cartoons,
-AI UGC, and microdramas, from one agent over MCP, with a free video editor.
+GEN researches what’s working, makes the video, and posts it: ads, cartoons,
+AI UGC, and microdramas over MCP. Video editing and social publishing are free.
+AI generation requires credits; media generation has separate access requirements.
 
 - MCP: https://mcp.gen.pro
 - Full agent guide: https://gen.pro/skill.md

@@ -2,7 +2,7 @@
 
 ![GEN](assets/gen-logo.png)
 
-GEN is the auto-content engine for ads, cartoons, AI UGC, and microdramas, with a free video editor. It researches what’s working, makes the video, and posts it over MCP.
+GEN is the creative AI video engineer. It researches what’s working, creates ads, cartoons, AI UGC, and microdramas, and posts them over MCP. Video editing and social publishing are free; AI generation requires credits; media generation has separate access requirements.
 
 This extension connects Gemini CLI to GEN’s hosted MCP server at https://mcp.gen.pro.
 
